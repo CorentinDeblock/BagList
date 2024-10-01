@@ -1,0 +1,8 @@
+## Interface: 110002
+## Version: 1.0.0
+## Title: BagList
+## Notes: Small addon for wow to track necessary items in bags
+## Author: Coco
+
+BagList.xml
+BagList.lua
