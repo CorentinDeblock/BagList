@@ -3,6 +3,7 @@
 ## Title: BagList
 ## Notes: Small addon for wow to track necessary items in bags
 ## Author: Coco
+## IconTexture: Interface\AddOns\BagList\Assets\WowIconAddon
 
 BagList.xml
 BagList.lua
